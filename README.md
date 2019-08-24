@@ -12,7 +12,7 @@ All the Project Submissions have to be done by making an issue in this repositor
 One has to mark appropriate label in order for a submission to be valid for the HaXplore Hackathon. Each submission should have a valid label according to the Project Field & Track.
 
 ## Project Track:
-Choose from
+Choose from -
 #### `Influence The Mass`
 #### `Revolutionize The Smart World`
 #### `Nuture The Future`
