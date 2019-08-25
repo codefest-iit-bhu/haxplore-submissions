@@ -17,7 +17,7 @@ _Explain about your project, the vision behind it and how it helps enhance lifes
 
 #### Technology used
 
-_Write about the technologies and tools used and how they were incorporated in your application._
+_Write about the technologies and tools used and how they were included and used in your application._
 
 #### Screenshots/Demo Video
 
