@@ -8,13 +8,20 @@ the on-campus event conducted by Codefest, the annual departmental fest of Compu
 * _Member_
 * _Member_
 
+#### _Project Name_
+
+
 #### Overview
 
 _Explain about your project, the vision behind it and how it helps enhance lifestyle, etc._
 
 #### Technology used
 
+_Write about the technologies and tools used and how they were incorporated in your application._
+
 #### Screenshots/Demo Video
+
+_Add some screens and a demo_
 
 #### Usage
 
